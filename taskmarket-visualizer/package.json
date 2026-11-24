@@ -1,0 +1,1 @@
+{"description":"Live Taskmarket market dashboard on Cloudflare Workers (Tempo + Base).","license":"MIT","name":"taskmarket-visualizer","scripts":{"deploy":"node deploy.mjs","test":"node --check worker.js && node --check deploy.mjs && echo OK"},"type":"module","version":"1.0.0"}
